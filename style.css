@@ -28,6 +28,10 @@ p {
 .logocabecalho{
   width:100px;
 }
+.lista_cabecalho 
+      display: flex;
+      margin-left: 500px;
+   }
  .item_lista_cabecalho
   color: read#a02822
   list-style: none;
