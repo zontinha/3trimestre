@@ -13,8 +13,8 @@ p {
   }
   img { 
     width: 500px;
-    height: 300px;
-    margin: 30px; 
+    height: 600px;
+    margin: 40px; 
     margin-left:130px; 
       }
   widht: 150px;
@@ -33,7 +33,7 @@ p {
       margin-left: 500px;
    }
  .item_lista_cabecalho
-  color: pink 
+  color: 
   list-style: none;
   text-tranform: uppercase;
   font-size: 100px;
