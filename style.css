@@ -33,8 +33,9 @@ p {
       margin-left: 500px;
    }
  .item_lista_cabecalho
-  color: read#a02822
+  color: pink 
   list-style: none;
   text-tranform: uppercase;
   font-size: 100px;
    padding:5px
+  }
