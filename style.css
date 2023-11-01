@@ -14,12 +14,12 @@ p {
   img { 
     width: 500px;
     height: 600px;
-    margin: 40px; 
+    margin: 200px; 
     margin-left:130px; 
       }
 
 .cabecalho { 
-  background-color: rgb( 103,187,189);
+  background-color: rgb(219, 119, 214);
   display: flex;
 }
 .logocabecalho{
