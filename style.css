@@ -12,10 +12,11 @@ p {
     text-align: justify;
   }
   img { 
-    width: 500px;
-    height: 600px;
-    margin: 200px; 
-    margin-left:130px; 
+    width: 300px;
+    height: 300px;
+    margin: 60px; 
+    margin-left:200px; 
+    margin-top: 200px;
       }
 
 .cabecalho { 
