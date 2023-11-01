@@ -18,14 +18,14 @@ p {
     width: 300px;
     height: 300px;
     margin: 60px; 
-    margin-left:200px; 
+    margin-left: 200px; 
     margin-top: 200px;
       }
 
 .cabecalho { 
   background-color: rgb(219, 119, 214);
 }
-.logocabecalho{
+.logo_dcabecalho{
   width: 170px;
   margin-left: 50px;
   margin-top: 50px;
